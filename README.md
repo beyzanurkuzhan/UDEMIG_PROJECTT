@@ -7,6 +7,6 @@ Görsel amaçlı tasarlanmış kolej tanıtma web sitesi
 
 <h2>Ekran Görüntüsü<h2>
 
-![](/228f3a78-7e36-496a-a5da-f57a252b9662.gif)
+![](/ekrankaydı.gif)
 
 Teşekkürler...
